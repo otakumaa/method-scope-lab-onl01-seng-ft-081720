@@ -1,4 +1,4 @@
-require "spec_helper"
+learn submitrequire "spec_helper"
 
 describe "#rescue_princess_peach" do
   it "outputs a message and sets a variable, status, that is not available outside of this method" do
